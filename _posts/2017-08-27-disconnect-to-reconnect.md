@@ -7,7 +7,7 @@ title: Disconnect to Reconnect
 
 *Otto the Postman, The Sacrifice (Tarkovsky, 1986)*
 
-# Bad for my brain
+## Bad for my brain
 
 Like many other privileged people in this modern world, I own and use a "smart"
 device which has become an integral part of my everyday life.
@@ -30,7 +30,7 @@ walking somewhere.
 
 Why do we feel the need to fill that boredom?
 
-# Mindfulness at rest
+## Mindfulness at rest
 
 Mindfulness has become extremely popular, particularly using apps that use your
 smart phone to help you through that mindfulness. I'm all for people finding
@@ -51,13 +51,13 @@ I'd leave behind.
 Life eventually decided for me when my Google Nexus 6P finally gave up. I have a spare phone
 capable of only phonecalls and SMS, which is now my main phone.
 
-## "I have no sense of direction, so I can't give up Google Maps"
+### "I have no sense of direction, so I can't give up Google Maps"
 
 I'm going to learn how to navigate. Unbelievable.
 
-## "I'll have nothing to listen to music on"
+### "I'll have nothing to listen to music on"
 
-Actually, I'm pretty content not listening to music out and about. I can wait
+I'm pretty content not listening to music out and about. I can wait
 until I'm back home and make it more of an event rather than a way to block out
 the world.
 
@@ -65,34 +65,34 @@ I did do a totally hipster thing, and bought a Walkman, and that'll be useful
 for sunbathing which I find an extremely soothing activity with music because the
 music becomes the focus.
 
-## "I need a 2FA device"
+### "I need a 2FA device"
 
-Actually, this is the most compelling reason to keep a smart device. Compelling,
+This is the most compelling reason to keep a smart device. Compelling,
 but kind of saddening.
 
 For the time-being, I'm taking a risk and using SMS where possible or storing codes
 elsewhere.
 
-## "Internet banking is really useful"
+### "Internet banking is really useful"
 
 It really is, and it really helped me in keep in touch with my finances.
 
 But there are other methods, and maybe I'll become less obsessive about money.
 
-## "I won't have a camera"
+### "I won't have a camera"
 
 If I get so desperate to take pictues I can buy a digital camera. I mostly only
 take pictures of my cat, anyway, and she's getting fed up of the paparazi at home.
 
-## "I won't be able to keep up to date with work email when I'm not at work"
+### "I won't be able to keep up to date with work email when I'm not at work"
 
 Just kidding.
 
-## "I won't be able to watch news about Donald Trump and Brexit unfold in real time"
+### "I won't be able to watch news about Donald Trump and Brexit unfold in real time"
 
 Shame.
 
-# Long-term consequences
+## Long-term consequences
 
 I'm not sure how I will judge it helps yet, but I am convinced there are not enough
 warnings for a trend I find extremely worrying.
