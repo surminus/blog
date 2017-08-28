@@ -8,8 +8,7 @@
 # Site settings
 title: 'surminus stuff'
 description: 'some stuff by laura martin' # write a nice description for your blog
-baseurl: '' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site http://www.example.com
+url: 'http://blog.surminus.co.uk' # the base hostname & protocol for your site http://www.example.com
 google_analytics: 'UA-84007756-1'
 twitter_username: 'surminus'
 
